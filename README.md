@@ -1,12 +1,7 @@
+<h3 align="center">welcome to my page! :D</h3>
 <div align="center">
 <img align="center" height="150" src="https://i.gifer.com/Pak.gif"  />
 </div>
-
-###
-
-<h3 align="center">welcome to my page! :D</h3>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=midnightwalks&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph"  />
