@@ -1,3 +1,7 @@
+<img align="center" height="150" src="https://i.gifer.com/Pak.gif"  />
+
+###
+
 <h3 align="center">welcome to my page! :D</h3>
 
 ###
@@ -8,9 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=midnightwalks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<img align="right" height="150" src="https://i.gifer.com/Pak.gif"  />
 
 ###
 
