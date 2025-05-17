@@ -1,4 +1,4 @@
-<h3 align="center">welcome to my page! :D</h3>
+<h3 align="center">welcome!:D</h3>
 <div align="center">
 <img align="center" height="150" src="https://i.gifer.com/Pak.gif"  />
 </div>
