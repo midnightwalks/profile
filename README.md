@@ -79,6 +79,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/midnightwalks/midnightwalks/blob/output/snake.svg?raw=true)
+<img src="https://raw.githubusercontent.com/midnightwalks/midnightwalks/output/snake.svg" alt="Snake animation" />
 
 ###
