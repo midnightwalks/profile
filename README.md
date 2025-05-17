@@ -72,9 +72,9 @@
   <a href="https://instagram.com/jeslyn.vh" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/jeslynvicky" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  <a href="https://linkedin.com/in/jeslynvicky" target="_blank" >
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+</a>
 </div>
 
 ###
