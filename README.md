@@ -79,7 +79,5 @@
 
 <br clear="both">
 
-![Snake animation](https://midnightwalks.github.io/midnightwalks/snake.svg)
-
 
 ###
