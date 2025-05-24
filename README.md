@@ -2,7 +2,7 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <img height="150" src="https://i.gifer.com/Pak.gif" alt="welcome gif" />
-  <img src="https://github-readme-stats.vercel.app/api?username=midnightwalks&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" margin-right="30" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=midnightwalks&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph" />
   <br>
   <img src="https://streak-stats.demolab.com?user=midnightwalks&locale=en&mode=daily&theme=jolly&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=midnightwalks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt="languages graph" />
