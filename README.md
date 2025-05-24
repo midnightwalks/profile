@@ -65,7 +65,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
 </div>
 
-<br clear="both">
 
 <div align="center">
   <a href="https://instagram.com/jeslyn.vh">
