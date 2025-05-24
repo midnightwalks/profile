@@ -1,17 +1,25 @@
 <h3 align="center">welcome! :D</h3>
-<div align="center">
-<img align="center" height="150" src="https://i.gifer.com/Pak.gif"  />
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; max-width: 700px; margin: auto;">
+  <!-- Baris 1 -->
+  <div style="flex: 1 1 45%; display: flex; justify-content: center; align-items: center;">
+    <img height="150" src="https://i.gifer.com/Pak.gif" alt="welcome gif" />
+  </div>
+  <div style="flex: 1 1 45%; display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=midnightwalks&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph" />
+  </div>
+
+  <!-- Baris 2 -->
+  <div style="flex: 1 1 45%; display: flex; justify-content: center; align-items: center;">
+    <img src="https://streak-stats.demolab.com?user=midnightwalks&locale=en&mode=daily&theme=jolly&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  </div>
+  <div style="flex: 1 1 45%; display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=midnightwalks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt="languages graph" />
+  </div>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=midnightwalks&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=midnightwalks&locale=en&mode=daily&theme=jolly&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=midnightwalks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-
-
-###
+<!-- Lanjutkan bagian skill icons dan sosial media -->
+<br/>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -61,9 +69,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
 </div>
 
-
-###
-
 <br clear="both">
 
 <div align="center">
@@ -74,10 +79,3 @@
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
 </a>
 </div>
-
-###
-
-<br clear="both">
-
-
-###
