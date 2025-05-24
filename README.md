@@ -1,14 +1,23 @@
 <h3 align="center">welcome! :D</h3>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img height="150" src="https://i.gifer.com/Pak.gif" alt="welcome gif" />
-  <img src="https://github-readme-stats.vercel.app/api?username=midnightwalks&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=midnightwalks&locale=en&mode=daily&theme=jolly&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=midnightwalks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-
+<table align="center" cellpadding="10">
+  <tr>
+    <td align="center">
+      <img height="150" src="https://i.gifer.com/Pak.gif" alt="welcome gif" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=midnightwalks&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=midnightwalks&locale=en&mode=daily&theme=jolly&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=midnightwalks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt="languages graph" />
+    </td>
+  </tr>
+</table>
 <!-- Lanjutkan bagian skill icons dan sosial media -->
 <br/>
 
